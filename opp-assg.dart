@@ -1,7 +1,4 @@
-/*Submit a working github repository to this form  https://forms.gle/1Wv1Wqd9y1epKH7E9
-
-TOPIC: Assignment  Technical Assignment Challenge: Object-Oriented Programming in Dart
-
+/*TOPIC: Assignment  Technical Assignment Challenge: Object-Oriented Programming in Dart
 This technical assignment challenge is designed to assess a learner's understanding of object-oriented programming (OOP) in Dart. The challenge should be pushed to GitHub and the solution should be submitted via a link.
 
 The challenge is to create a program that has the following features:
